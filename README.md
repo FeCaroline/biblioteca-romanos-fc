@@ -1,6 +1,6 @@
 # biblioteca-romanos v1.0.0
 
-É uma biblioteca que transforma números romanos em algarismos inteiros e vice-versa, sem diferenciar letras maíusculas e minúsculas, até o algarismo 5mi.
+É uma biblioteca que transforma números romanos em algarismos inteiros e vice-versa, sem diferenciar letras maíusculas e minúsculas, até o algarismo 5000.
 
 #Método
 As funções utilizadas são: intToRoman(num) e romanToInt(rom).
