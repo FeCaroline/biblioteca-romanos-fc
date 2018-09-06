@@ -1,5 +1,5 @@
-{
-  "name": "biblioteca-romanos",
+﻿{
+  "name": "biblioteca-romanos-fc",
   "version": "1.0.0",
   "description": "\"Função com número romanos\"",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FeCaroline/biblioteca-romanos.git"
+    "url": "git+https://github.com/FeCaroline/biblioteca-romanos-fc.git"
   },
   "keywords": [
     "Roman",
@@ -20,7 +20,7 @@
   "author": "Fernanda Caroline Batista",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FeCaroline/biblioteca-romanos/issues"
+    "url": "https://github.com/FeCaroline/biblioteca-romanos-fc/issues"
   },
-  "homepage": "https://github.com/FeCaroline/biblioteca-romanos#readme"
+  "homepage": "https://github.com/FeCaroline/biblioteca-romanos-fc#readme"
 }
